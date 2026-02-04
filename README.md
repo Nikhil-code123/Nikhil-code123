@@ -16,7 +16,7 @@
 
 - 💬 Ask me about :- **Java**
 
-- 📫 How to reach me :- **https://github.com/Nikhil-code123**
+- 📫 How to reach me :- **https://www.linkedin.com/in/banavathu-nikhil-naik-27714b349/**
 
 - ⚡ Fun fact :- **Still a student, but my GitHub says “developer in progress” 🚀**
 
