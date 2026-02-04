@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm NIKHIL NAIK</h1>
+[![MasterHead](https://github.com/Nikhil-code123/desktop-tutorial/blob/main/banner.png)]
+<h1 align="center">Hello👋, I'm NIKHIL NAIK</h1>
 <h3 align="center">A passionate AI&ML from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
